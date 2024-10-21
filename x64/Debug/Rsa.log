@@ -1,0 +1,3 @@
+﻿  Rsa.cpp
+C:\Users\Asus\OneDrive\Рабочий стол\Rsa\Rsa.cpp(73,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rsa.vcxproj -> C:\Users\Asus\OneDrive\Рабочий стол\Rsa\x64\Debug\Rsa.exe
